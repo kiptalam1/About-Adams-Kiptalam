@@ -2,7 +2,7 @@
 - My full name is Adams Kiptalam.
 -  I’m interested in Data Analytics and Software development.
 -  I’m currently learning Data Science, Machine Learning and Web Development.
--  I’m looking to collaborate on Data Analytics and *****Data Science***** as a whole as a career.
+-  I’m looking to collaborate on Data Analytics and *****Data Science***** as a whole.
 -  You can reach me on:
       Linkedin - ***www.linkedin.com/in/adams-kiptalam/***
   
